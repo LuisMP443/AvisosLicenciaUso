@@ -1,0 +1,12 @@
+D:\Proyectos Visual Studio\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.exe.config
+D:\Proyectos Visual Studio\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.exe
+D:\Proyectos Visual Studio\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.pdb
+D:\Proyectos Visual Studio\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.xml
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.vbprojAssemblyReference.cache
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.Resources.resources
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.Principal.resources
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.vbproj.GenerateResource.cache
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.exe
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.xml
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.pdb
+D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.imagenes.resources
