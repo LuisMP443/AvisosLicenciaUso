@@ -10,3 +10,25 @@ D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.exe
 D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.xml
 D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.pdb
 D:\Proyectos Visual Studio\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.imagenes.resources
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.vbprojAssemblyReference.cache
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.imagenes.resources
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.Resources.resources
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.Principal.resources
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.vbproj.GenerateResource.cache
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.TrustInfo.xml
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.exe
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.xml
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.pdb
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\avisos\aviso_1.png
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\avisos\aviso_2.png
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\avisos\aviso_3.png
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\avisos\aviso_4.png
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.exe.config
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.exe.manifest
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.application
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.exe
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.pdb
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\bin\Debug\AvisosLicenciaUso.xml
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.exe.manifest
+C:\Users\Luis\Source\Repos\Tecnibus2\AvisosLicenciaUso\obj\Debug\AvisosLicenciaUso.application
